@@ -81,7 +81,7 @@ body {
 }
 
 .main .landing-description button:hover {
-    background-color: rgb(93%, 32%, 80%);
+    background-color: hsl(300, 69%, 71%);
     color: #fff;
 }
 
@@ -114,5 +114,5 @@ body {
 }
 
 .footer .social a:hover {
-    color: rgb(93%, 32%, 80%);
+    color: hsl(300, 69%, 71%);
 }
